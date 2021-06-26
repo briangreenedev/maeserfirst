@@ -19,18 +19,18 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://zoom.us/j/99681567244?pwd=ZktwOWpXa3dLS2crMFZDSVpVbVkyQT09" className={styles.card}>
             <h3>Worship Service and Fast & Testimony Meeting</h3>
             <p>Link to Worship Service and Fast & Testimony Meeting</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://zoom.us/j/96267908854?pwd=RlVweEdUSFQ4eFNEZFJxUCtadk9GZz09" className={styles.card}>
             <h3>Adult Classes & Quorums</h3>
             <p>Link to Adult Sunday School classes, Relief Society, and Elders quorum.</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="https://zoom.us/j/99600310225?pwd=aGhkSWFZUlZ0Y1JucVZ1eFlXeDNpQT09"
             className={styles.card}
           >
             <h3>Youth Classes & Quorums</h3>
