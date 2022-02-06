@@ -19,18 +19,18 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://zoom.us/j/99681567244?pwd=ZktwOWpXa3dLS2crMFZDSVpVbVkyQT09" className={styles.card}>
+          <a href="https://zoom.us/j/94286403980?pwd=SXVFeTlxVXFJSTNRdjNkRUw0SmpEQT09" className={styles.card}>
             <h3>Worship Service and Fast & Testimony Meeting</h3>
             <p>Link to Worship Service and Fast & Testimony Meeting</p>
           </a>
 
-          <a href="https://zoom.us/j/96267908854?pwd=RlVweEdUSFQ4eFNEZFJxUCtadk9GZz09" className={styles.card}>
+          <a href="https://zoom.us/j/92704499194?pwd=cDhPckdTci9mR1JMN1FveTJxUnpiQT09" className={styles.card}>
             <h3>Adult Classes & Quorums</h3>
             <p>Link to Adult Sunday School classes, Relief Society, and Elders quorum.</p>
           </a>
 
           <a
-            href="https://zoom.us/j/99600310225?pwd=aGhkSWFZUlZ0Y1JucVZ1eFlXeDNpQT09"
+            href="https://zoom.us/j/93180794811?pwd=UlZjMjc2WTR4SW41VUVwOEdqayt1dz09"
             className={styles.card}
           >
             <h3>Youth Classes & Quorums</h3>
